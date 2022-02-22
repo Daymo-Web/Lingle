@@ -619,7 +619,7 @@ function App() {
                   Lingle is an adaptation to a popular NY times game called
                   Wordle.{" "}
                   <a href="https://www.nytimes.com/games/wordle/index.html">
-                    Click here to check out the orignal Wordle Game.
+                    Click here to check out the original Wordle Game.
                   </a>
                 </p>
                 <p>
